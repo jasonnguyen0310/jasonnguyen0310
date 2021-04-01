@@ -5,7 +5,6 @@ Much of my work is done in Python, C++, and C, but I have dedicated my time to l
 My current goals are to expand my engineering portfolio and skillsets. My dream is to someday work in the video game industry. I am ambitious about developing a product that will one day be used by others that share my passion. 
 
 Would love to connect with you! Feel free to contact me at - jasonnguyen0310@gmail.com
-You can refer to my resume on the Featured Tab
 
 Myer-Briggs: ESTP-T
 Mind | Energy | Nature | Tactics | Identity
