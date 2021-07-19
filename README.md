@@ -1,4 +1,4 @@
-Hello, my name is Jason Nguyen and I am currently a junior at The University of California - Irvine majoring in the field of Computer Sciences. I have a growing fascination for technology, video game design, and product management. 
+Hello, my name is Jason Nguyen and I am currently a senior at The University of California - Irvine majoring in the field of Computer Sciences. I have a growing fascination for technology, video game design, and product management. 
 
 Much of my work is done in Python, C++, and C, but I have dedicated my time to learning languages such as Java, BASH, and SQL. As an experienced software tester with a demonstrated history of working in the computer software industry, I have a good understanding of software iteration associated with both waterfall and agile development.  I push myself to engage in my soft skills in terms of providing mentorship, establishing roadmaps, and ensuring a productive engineering environment. 
 
