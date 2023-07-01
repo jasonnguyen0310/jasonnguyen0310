@@ -6,10 +6,8 @@ I push myself to engage in my soft skills in terms of providing mentorship, esta
 
 My current goals are to expand my engineering portfolio and skillsets. I am ambitious about developing a product that will one day be used by others that share my passion. My dream is to also someday work in the video game industry.
 
-Would love to connect with you! Feel free to contact me via email - 
+Would love to connect with you! Feel free to contact me via email:
 jasonnguyen0310@gmail.com
-
-You can refer to my GitHub on the Featured Tab.
 
 Myer-Briggs: ESTP-T
 Mind | Energy | Nature | Tactics | Identity
